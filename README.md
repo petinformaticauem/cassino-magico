@@ -1,5 +1,5 @@
 
-# 🎰 Cassino Mágico  
+# 🎰 Cassino Mágico   
 
 Bem-vindo ao repositório do **Cassino Mágico**, uma atividade interativa desenvolvida para integrar os calouros dos cursos de Computação e Informática da Universidade Estadual de Maringá (UEM)! Aqui você encontrará tudo o que precisa para entender, apresentar e rodar a dinâmica.  
 
