@@ -53,9 +53,9 @@
     {
       "id": 6,
       "level": "médio",
-      "question": "No filme WALL-E da Pixar, qual é a função principal de WALL-E na Terra?",
+      "question": "Em Matrix, qual dispositivo os personagens usam para escapar da simulação e voltar ao mundo real?",
       "theme": "cinema",
-      "extra": "Qual o nome do outro robô que WALL-E se apaixona?",
+      "extra": "Qual é o nome da hacker que ajuda Neo a encontrar Morpheus?",
       "time": 30,
       "song": null,
       "image": null
@@ -73,9 +73,9 @@
     {
       "id": 8,
       "level": "impossível",
-      "question": "Quantos Oscars conquistou o filme 'O Senhor dos Anéis: O Retorno do Rei'?",
+      "question": "Em Ghost in the Shell, o que significa o termo Ghost?",
       "theme": "cinema",
-      "extra": "Qual outro filme também possui 11 Oscars?",
+      "extra": "Qual é o nome da protagonista de Ghost in the Shell?",
       "time": 60,
       "song": null,
       "image": null
@@ -93,9 +93,9 @@
     {
       "id": 10,
       "level": "médio",
-      "question": "Estamos em qual geração da evolução dos computadores?",
+      "question": "Qual foi o primeiro sistema operacional criado pela Microsoft?",
       "theme": "história",
-      "extra": "Qual geração dos computadores foi inventado o mouse?",
+      "extra": "Qual o significado da sigla MS-DOS?",
       "time": 30,
       "song": null,
       "image": null
@@ -113,9 +113,9 @@
     {
       "id": 12,
       "level": "impossível",
-      "question": "Qual era o principal objetivo dos cartões-perfurados?",
+      "question": "Qual foi o primeiro programa de computação gráfica interativa, que permitia criar e manipular desenhos na tela?",
       "theme": "história",
-      "extra": "Equipe pesquisa qual era o nome dos criadores dos cartões-perfurados.",
+      "extra": "Qual dispositivo era usado para desenhar na tela do Sketchpad?",
       "time": 60,
       "song": null,
       "image": null
