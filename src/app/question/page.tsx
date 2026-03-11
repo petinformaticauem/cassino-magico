@@ -114,7 +114,7 @@ function QuestionContent() {
             <Image
               src={question.image}
               alt="Imagem da pergunta"
-              width={290}
+              width={240}
               height={300}
             />
           </div>

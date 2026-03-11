@@ -93,9 +93,9 @@
     {
       "id": 10,
       "level": "médio",
-      "question": "Qual foi o primeiro sistema operacional criado pela Microsoft?",
+      "question": "Qual o nome do criador do sistema operacional Linux?",
       "theme": "história",
-      "extra": "Qual o significado da sigla MS-DOS?",
+      "extra": "Qual mascote representa o Linux?",
       "time": 30,
       "song": null,
       "image": null
@@ -103,9 +103,9 @@
     {
       "id": 11,
       "level": "difícil",
-      "question": "Qual o nome do primeiro computador eletrônico em grande escala criado?",
+      "question": "Qual foi o primeiro sistema operacional criado pela Microsoft?",
       "theme": "história",
-      "extra": "Qual o significado da sigla ENIAC?",
+      "extra": "Qual o significado da sigla MS-DOS?",
       "time": 60,
       "song": null,
       "image": null
@@ -113,9 +113,9 @@
     {
       "id": 12,
       "level": "impossível",
-      "question": "Qual foi o primeiro programa de computação gráfica interativa, que permitia criar e manipular desenhos na tela?",
+      "question": "Qual o nome do primeiro computador eletrônico em grande escala criado?",
       "theme": "história",
-      "extra": "Qual dispositivo era usado para desenhar na tela do Sketchpad?",
+      "extra": "Qual o significado da sigla ENIAC?",
       "time": 60,
       "song": null,
       "image": null
@@ -173,7 +173,7 @@
     {
       "id": 18,
       "level": "médio",
-      "question": "Abaixo vemos 3 equações 'horizontais' e 1 'vertical'. Realoque os números para solucionar as equações.",
+      "question": "Abaixo vemos 3 equações horizontais e 1 vertical. Realoque os números para solucionar as equações.",
       "theme": "enigmas",
       "song": null,
       "image": "/enigma2.png",
